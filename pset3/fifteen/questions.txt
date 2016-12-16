@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+1. 6*6 and 8*8 , so that we can have odd no. of tiles
+2. Game's board represent two dimensional integer array
+3. greet()
+4. clear(), init(), draw(), won(), move()
